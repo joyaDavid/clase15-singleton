@@ -1,0 +1,15 @@
+view\FormMascota$4.class
+dao\MascotaDAO.class
+view\FormMascota$5.class
+data\Main.class
+model\Mascota.class
+view\FormMascota.class
+view\FormMascota$3.class
+dto\MascotaDTO.class
+persistence\ArchivoManager.class
+view\FormMascota$1.class
+com\mycompany\clasen15\ClaseN15.class
+exception\DatoInvalidoException.class
+view\FormMascota$6.class
+persistence\GestorPersistencia.class
+view\FormMascota$2.class
